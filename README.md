@@ -43,7 +43,6 @@
 
 - LOGO:"https://image.tmdb.org/t/p/original/wwemzKWzjKYJFfCeiB57q3r4Bcm.svg" alt="
 
-- Resim İçin BaseURL: https://image.tmdb.org/t/p/original
+- (For Image) BaseURL: https://image.tmdb.org/t/p/original
 
 
-# netflixClone
